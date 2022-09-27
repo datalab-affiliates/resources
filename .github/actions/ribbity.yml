@@ -1,3 +1,4 @@
+#
 name: build and deploy ribbity/mkdocs to github pages
 
 on:
