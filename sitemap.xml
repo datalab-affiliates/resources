@@ -6,7 +6,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://datalab-affiliates.github.io/resources/1-where-can-i-get-bioinformatics-help.html</loc>
+         <loc>https://datalab-affiliates.github.io/resources/1-where-can-i-get-bioinformatics-help-and-training.html</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -37,6 +37,11 @@
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/examples.html</loc>
+         <lastmod>2022-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/l-bioinformatics.html</loc>
          <lastmod>2022-09-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
