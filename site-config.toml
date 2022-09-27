@@ -18,3 +18,5 @@ github_username = 'ctb'
 
 # local output file to which to pull issues.
 issues_dump = 'datascience-resources.dmp'
+
+issue_title_prefix = 'Question: '
