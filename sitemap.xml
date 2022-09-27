@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/index.html</loc>
+         <lastmod>2022-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/1-where-can-i-get-bioinformatics-help.html</loc>
+         <lastmod>2022-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/2-where-can-i-get-help-learning-r.html</loc>
+         <lastmod>2022-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/examples.html</loc>
+         <lastmod>2022-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/l-question.html</loc>
+         <lastmod>2022-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/labels.html</loc>
+         <lastmod>2022-09-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
