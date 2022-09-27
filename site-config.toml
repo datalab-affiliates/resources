@@ -1,0 +1,20 @@
+# site title
+title = "Data cience resources at UC Davis"
+
+# site name
+site_name = "datascience resources"
+
+# where site will be served from
+site_url = "https://datalab-affiliates.github.io/resources/"
+
+# the github repository from which to pull the issues:
+github_repo = "datalab-affiliates/resources"
+
+# site-specific templates (MORE HERE)
+add_pages = [ "index.md", "examples.md", "labels.md" ]
+
+# username on github (if you want to use authentication with the API; leave empty if not)
+github_username = 'ctb'
+
+# local output file to which to pull issues.
+issues_dump = 'datascience-resources.dmp'
