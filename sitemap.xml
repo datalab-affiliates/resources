@@ -106,6 +106,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://datalab-affiliates.github.io/resources/29-how-do-i-estimate-what-computing-resources-i-need-for-a-particular-problem.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/30-how-do-i-know-if-i-need-to-use-bigger-computing-resources.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://datalab-affiliates.github.io/resources/examples.html</loc>
          <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
@@ -152,6 +162,11 @@
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/l-rstats.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/l-skills.html</loc>
          <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
