@@ -2,87 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://datalab-affiliates.github.io/resources/index.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/1-where-can-i-get-bioinformatics-help-and-training.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/10-what-is-the-uc-davis-datalab.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/11-how-can-i-join-the-datalab.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/12-what-uc-davis-datascience-related-slack-organizations-and-channels-are-there.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/14-what-free-campus-resources-are-there-for-working-with-data.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/15-what-graduate-courses-on-data-sciences-are-there.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/16-what-datascience-related-workshops-bootcamps-seminar-series-are-available-on-campus.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/17-where-can-i-learn-to-write-a-cv-that-presents-my-data-science-skills.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/18-how-and-why-was-datalab-created.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/19-where-is-datalabs-main-space-located.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/2-where-can-i-get-help-learning-r.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/20-what-computing-resources-are-available-to-researchers-at-uc-davis.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/21-what-research-computing-software-is-available.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/22-how-much-does-it-cost-to-purchase-computing-resources-on-the-farm-hpc.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/23-how-do-i-use-python-on-the-farm-hpc.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/24-how-do-i-use-r-on-the-farm-hpc.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/25-how-do-i-install-software-on-the-farm-hpc.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/26-how-do-i-install-software-in-my-own-account-on-farm.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/27-what-additional-skills-would-help-me-become-more-efficient-in-doing-research-computing.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/28-what-do-i-need-to-learn-to-do-research-computing.html</loc>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/examples.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/l-bioinformatics.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/l-computing.html</loc>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/l-datalab.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/l-hpc.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/l-intermediate.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/l-learning.html</loc>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/l-python.html</loc>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/l-question.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://datalab-affiliates.github.io/resources/l-rstats.html</loc>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://datalab-affiliates.github.io/resources/labels.html</loc>
-         <lastmod>2022-09-27</lastmod>
+         <lastmod>2022-10-04</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
